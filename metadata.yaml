@@ -1,0 +1,30 @@
+_repo: The-Campaign-of-the-Forty-fifth-Regiment-Massachusetts-Volunteer-Militia-The-Cadet-Regiment_48303
+contributor:
+  illustrator:
+    agent_name: Shapleigh, Frank H.
+    birthdate: 1841
+    deathdate: 1906
+    gutenberg_agent_id: '44727'
+    url: http://www.gutenberg.org/2009/agents/44727
+creator:
+  author:
+    agent_name: Hubbard, Charles Eustis
+    birthdate: 1842
+    gutenberg_agent_id: '44726'
+    url: http://www.gutenberg.org/2009/agents/44726
+description: ''
+gutenberg_issued: '2015-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48303'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories
+  -- Massachusetts'
+title: 'The Campaign of the Forty-fifth Regiment, Massachusetts Volunteer Militia
+
+  The Cadet Regiment'
+url: http://www.gutenberg.org/ebooks/48303
